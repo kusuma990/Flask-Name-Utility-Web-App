@@ -160,9 +160,9 @@ http://127.0.0.1:5000/style?name=kusuma
 
 Created by Kusuma Kumari Bodduluri
 
-🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
-💻 GitHub: https://github.com/kusuma990
-🎓 Data Science Student
+- 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
+- 💻 GitHub: https://github.com/kusuma990
+- 🎓 Data Science Student
 
 ---
 
