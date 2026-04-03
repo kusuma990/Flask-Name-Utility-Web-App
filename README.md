@@ -54,7 +54,7 @@ FlaskProject/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kusuma990/Flask-Name-Utility-Web-App
 
 cd your-repo-name
 
